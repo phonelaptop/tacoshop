@@ -1,0 +1,21 @@
+.imaage {
+    width: 30px
+}
+
+.image {
+    width: 25px
+}
+
+.immage {
+    width: 50px;
+    margin: 16px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.tabler {
+    background-color: beige;
+}
